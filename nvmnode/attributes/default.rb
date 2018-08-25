@@ -1,0 +1,1 @@
+default['appserver']['reposit']="git"
